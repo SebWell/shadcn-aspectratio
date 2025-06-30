@@ -1,0 +1,26 @@
+{
+  "name": "shadcn-aspectratio",
+  "version": "1.0.0",
+  "description": "Shadcn/UI AspectRatio component for Weweb",
+  "main": "src/AspectRatio.vue",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "keywords": [
+    "weweb",
+    "shadcn",
+    "ui",
+    "AspectRatio",
+    "vue",
+    "component"
+  ],
+  "author": "Shadcn/UI for Weweb Community",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  }
+}
